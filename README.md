@@ -27,7 +27,7 @@ Clone the repository:
 
 **Technical details**
 This game is built using Python. The program uses the built-in "random" library to generate random values.
-###**Requirements**
+**Requirements**
 - Python 3.8+
 
 Contributing
