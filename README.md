@@ -28,12 +28,15 @@ Clone the repository:
 **Technical details**
 ---
 This game is built using Python. The program uses the built-in "random" library to generate random values.
+<br>
+<br>
 **Requirements**
+<br>
 - Python 3.8+
 
 Contributing
 ---
-If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+To contribute to this project, fork the repository and submit a pull request with your changes.
 
 
 Authors
