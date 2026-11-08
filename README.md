@@ -8,7 +8,7 @@ This is the Number Guessing Game!! Try your luck and try to guess a randomly gen
 
 **How to Run**
 ---
-Clone the repository: https://github.com/Adan-rgs/Number-Guessing-Game.git
+Clone the repository: ```git clone https://github.com/Adan-rgs/Number-Guessing-Game.git```
 
 **How to play**
 ---
