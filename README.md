@@ -26,6 +26,7 @@ Clone the repository:
 3. Hard: 3 attempts
 
 **Technical details**
+---
 This game is built using Python. The program uses the built-in "random" library to generate random values.
 **Requirements**
 - Python 3.8+
